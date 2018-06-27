@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Cutable TextView</string>
+    <string name="long_quote">
+        Your personal life, your professional life, and your creative life are all intertwined.\n
+        I went through a few very difficult years where I felt like a failure.\n
+        But it was actually really important for me to go through that.\n
+        Struggle, for me, is the most inspirational thing in the world at the end of the day - as long as you treat it that way.\n
+
+        At the end of the day, you are solely responsible for your success and your failure.\n
+        And the sooner you realize that, you accept that, and integrate that into your work ethic, you will start being successful.\n
+        As long as you blame others for the reason you are not where you want to be, you will always be a failure.\n
+
+        You can do anything as long as you have the passion, the drive, the focus, and the support.\n
+
+        People go on about places like Starbucks being unpersonal and all that, but what if that what you want?
+        I would be lost if people like that got their way and there was nothing unpersonal in the world.
+        I like to know that there are big places without windows where no one gives a shit.
+        You need confidence to go into small places with regular customers…
+        I am happiest in the Virgin Megastore and Borders and Starbucks and Pizza Express, where no one gives a shit and no one knows who you are.
+        My mum and dad are always going on about how soulless those places are, and I am like Der.
+        That is the point.
+    </string>
 </resources>

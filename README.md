@@ -33,4 +33,4 @@ dependencies {
 ## Attributes
 `app:ctv_lines_to_cut=` cuts as many lines as you want (default 4).
 
-If you want change this value programmatically , call this method `mCutableTextView.setLinesToCut(int lines);`
+If you want change this value programmatically , call this method `CutableTextView#setLinesToCut(int lines);`
